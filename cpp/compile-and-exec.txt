@@ -1,0 +1,6 @@
+compile
+g++ filename.cpp
+
+exec
+path filename:
+./ filename.out
